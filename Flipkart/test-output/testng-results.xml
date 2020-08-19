@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[search items pass]]>
+    </line>
+    <line>
+      <![CDATA[search product pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-08-19T19:15:03 IST" name="Suite" finished-at="2020-08-19T19:15:03 IST" duration-ms="102">
+    <groups>
+    </groups>
+    <test started-at="2020-08-19T19:15:03 IST" name="Test" finished-at="2020-08-19T19:15:03 IST" duration-ms="102">
+      <class name="com.flipkart.pages.SearchItemsTest">
+        <test-method signature="run()[pri:0, instance:com.flipkart.pages.SearchItemsTest@1356d4d4]" started-at="2020-08-19T19:15:03 IST" name="run" finished-at="2020-08-19T19:15:03 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[search items pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.flipkart.pages.SearchItemsTest -->
+      <class name="com.flipkart.pages.SearchProductTest">
+        <test-method signature="run()[pri:0, instance:com.flipkart.pages.SearchProductTest@c03cf28]" started-at="2020-08-19T19:15:03 IST" name="run" finished-at="2020-08-19T19:15:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[search product pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.flipkart.pages.SearchProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
