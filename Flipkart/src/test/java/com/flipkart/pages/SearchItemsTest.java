@@ -12,7 +12,9 @@ public class SearchItemsTest {
 		Reporter.log("search items pass",true);
 		Reporter.log("search items pass",true);
 		Reporter.log("search items pass",true);
-		
+		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
 	}
 
 }

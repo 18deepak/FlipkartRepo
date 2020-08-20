@@ -9,6 +9,10 @@ public class SearchProductTest {
 		Reporter.log("search product pass",true);
 		Reporter.log("pass bc",true);
 		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
+		Reporter.log("pass bc",true);
 	}
 
 }
