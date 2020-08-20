@@ -7,6 +7,7 @@ public class SearchProductTest {
 	@Test
 	public void run() {
 		Reporter.log("search product pass",true);
+		Reporter.log("pass bc",true);
 	}
 
 }

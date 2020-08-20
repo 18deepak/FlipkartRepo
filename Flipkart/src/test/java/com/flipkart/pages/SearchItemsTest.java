@@ -9,6 +9,10 @@ public class SearchItemsTest {
 	@Test
 	public void run() {
 		Reporter.log("search items pass",true);
+		Reporter.log("search items pass",true);
+		Reporter.log("search items pass",true);
+		Reporter.log("search items pass",true);
+		
 	}
 
 }
